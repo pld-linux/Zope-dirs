@@ -2,14 +2,13 @@ Summary:	Common dirs for Zope libraries
 Summary(pl.UTF-8):	Katalogi wspólne dla bibliotek Zope
 Name:		Zope-dirs
 Version:	1.0
-Release:	4
+Release:	5
 License:	Public Domain
 Group:		Libraries/Python
 BuildRequires:	python
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
-Obsoletes:	ZopeInterface
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 # nothing to put there

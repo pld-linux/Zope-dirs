@@ -2,7 +2,7 @@ Summary:	Common dirs for Zope libraries
 Summary(pl.UTF-8):	Katalogi wspólne dla bibliotek Zope
 Name:		Zope-dirs
 Version:	1.0
-Release:	6
+Release:	7
 License:	Public Domain
 Group:		Libraries/Python
 BuildRequires:	python
